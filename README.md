@@ -12,8 +12,8 @@ The pipeline:
 Way to run project :
 
 1) Clone GitHub repository
-git clone <your-repo-url>
-cd <project-folder>
+git clone (https://github.com/SRCEM-AIML/C66_NehanshuSurkar_Assignment_2.git)
+cd StudentProject
 
 
 2) Build and run with Docker
